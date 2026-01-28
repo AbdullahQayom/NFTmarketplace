@@ -1,5 +1,5 @@
+// the browse components 
 import React from 'react';
-
 import z from "../assets/categories/icon1.png";
 import y from "../assets/categories/icon2.png";
 import x from "../assets/categories/icon3.png";

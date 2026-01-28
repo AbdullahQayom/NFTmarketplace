@@ -1,3 +1,4 @@
+//Footer componets 
 import React from 'react';
 import { FaTwitter, FaInstagram, FaYoutube, FaDiscord } from 'react-icons/fa';
 import { MdStore } from "react-icons/md";

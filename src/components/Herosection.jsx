@@ -1,3 +1,4 @@
+// hero component 
 import React from "react";
 import nftImage from "../assets/avatar/img1.png";
 import { AirplaneInFlight } from "@phosphor-icons/react";

@@ -1,3 +1,4 @@
+//Discover components 
 import React from "react";
 import { HiOutlineEye } from "react-icons/hi";
 import { Link } from "react-router-dom";
