@@ -1,3 +1,4 @@
+// navbar section
 import React from "react";
 import { MdStore } from "react-icons/md";
 import { FaRegUser } from "react-icons/fa";
